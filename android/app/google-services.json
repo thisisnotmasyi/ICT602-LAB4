@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "384092395815",
+    "firebase_url": "https://semesterfive-37562-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "semesterfive-37562",
+    "storage_bucket": "semesterfive-37562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384092395815:android:a7a2079db00a048876b102",
+        "android_client_info": {
+          "package_name": "com.example.lab_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQecPT1WEO9cBmA0_ARAABFxBafdUJhx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384092395815:android:5fae3a96ea6e207176b102",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQecPT1WEO9cBmA0_ARAABFxBafdUJhx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384092395815:android:e495875e37c677e076b102",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQecPT1WEO9cBmA0_ARAABFxBafdUJhx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
